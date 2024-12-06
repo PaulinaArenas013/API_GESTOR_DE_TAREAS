@@ -40,4 +40,5 @@ El objetivo de este proyecto es desarrollar una aplicación para gestionar tarea
 * Instalar dependencias:  pip install flask flask-sqlalchemy , pip install flask-login
 * Finalmente ejecutar el comando flask --app app --debug run para interactuar con la aplicación.
 
-## 4. Link a demo 
+## 4. Link a demo
+http://34.57.149.76:5000/

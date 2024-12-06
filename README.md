@@ -17,22 +17,24 @@ El objetivo de este proyecto es desarrollar una aplicación para gestionar tarea
 ## 2. Tecnologías y dependencias utilizadas
 
 * Backend:
-  -Python: Lenguaje principal para la implementación del backend.
-  -Flask: Framework ligero para desarrollar la API y manejar las rutas.
-  -Flask-Login: Para la autenticación y gestión de sesiones de usuarios.
-  -Flask-SQLAlchemy: Para la integración con la base de datos.
-  -SQLite: Base de datos utilizada en desarrollo
+  *Python: Lenguaje principal para la implementación del backend.
+  *Flask: Framework ligero para desarrollar la API y manejar las rutas.
+  *Flask-Login: Para la autenticación y gestión de sesiones de usuarios.
+  *Flask-SQLAlchemy: Para la integración con la base de datos.
+  *SQLite: Base de datos utilizada en desarrollo
 
 * Frontend:
-  -HTML
-  -CSS
-  -JavaScript: Gestión de interacciones dinámicas con la API y animaciones visuales como (Confetti library)
-  -Bootstrap: Framework para diseño responsivo y componentes predefinidos.
+  *HTML
+  *CSS
+  *JavaScript: Gestión de interacciones dinámicas con la API y animaciones visuales como (Confetti library)
+  *Bootstrap: Framework para diseño responsivo y componentes predefinidos.
 
 ## 3. Instrucciones de Implementación
 
-*Crear un entorno virtual con el comando de python -m venv env y posteriormente activarlo con .\env\Scripts\activate
+*Crear un entorno virtual con el comando de python -m venv env y posteriormente activarlo con .\env\Scripts\activate.
+
 *Instalar dependencias:  pip install flask flask-sqlalchemy , pip install flask-login
+
 *Finalmente ejecutar el comando flask --app app --debug run para interactuar con la aplicación.
 
 ## 4. Link a demo 

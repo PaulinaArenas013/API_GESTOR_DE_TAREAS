@@ -41,4 +41,4 @@ El objetivo de este proyecto es desarrollar una aplicación para gestionar tarea
 * Finalmente ejecutar el comando flask --app app --debug run para interactuar con la aplicación.
 
 ## 4. Link a demo
-http://34.57.149.76:5000/
+http://34.57.149.76:5000/login
